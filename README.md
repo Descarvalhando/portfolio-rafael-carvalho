@@ -1,2 +1,7 @@
 # portfolio-rafael-carvalho
-portfólio de artes visuais; artigos publicados acercada da história da arte, ensino de artes visuais e ensaios
+
+repositório de imagens e artigos autorais construidos desde 2011
+
+pesquisa em história da arte
+ensino de artes visuais 
+processos criativos
